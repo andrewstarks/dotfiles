@@ -1,6 +1,6 @@
 [user]
-	name = John Reilly
-	email = jr@trms.com
+	name = Andrew Starks
+	email = andrew.starks@trms.com
 [alias]
 	co = checkout
 	st = status
@@ -24,7 +24,7 @@
   changed = green
   untracked = cyan
 [core]
-	excludesfile = /Users/john/.gitignore
+	excludesfile = /Users/andrew/.gitignore
 	editor = mate -w
 [apply]
 	whitespace = nowarn
